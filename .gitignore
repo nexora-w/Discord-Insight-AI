@@ -30,6 +30,7 @@ var/
 
 # Installer logs
 pip-log.txt
+temp_auto_push.bat
 pip-delete-this-directory.txt
 
 # Unit test / coverage reports
@@ -63,4 +64,5 @@ model/
 *.csv
 
 # VSCode
-.vscode/ 
+.gitignore
+temp_interactive_push.bat

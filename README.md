@@ -69,4 +69,4 @@ python test/test_model.py
 Check the `reports/` directory for saved evaluation outputs.
 
 ## License
-MIT License (add LICENSE file if needed) 
+MIT License
